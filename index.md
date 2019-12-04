@@ -8,14 +8,18 @@ Frontend Developer, Aspiring Backend Developer, UI/UX Designer.
 <div id="webaddress">
 <a href="https://github.com/shoxadomokai">My Github Page</a>
 | <a href="https://www.behance.net/ShoxAdomokai">My Behance Page</a>
+</div> | <a href="linkedin.com/in/shox-adomokai">My LinkedIn Page</a>
 </div>
 
 
 ## Summary
 
-I am a Mechanical Engineer with multifaceted skills in Graphics Design, Frontend Development and Digital
-Strategy with a proven expertise in finding, attracting and securing strong and friendly long-term relationships directly with
-customers of small to midsized closely held businesses.
+I am a Mechanical Engineering Graduate with multifaceted skills in Graphics Design, Frontend Development and Digital
+Strategy and deep knowledge and expertise in Javascript Frameworks, I excel at developing Websites and SPAs in VueJS
+
+I am well versed in Javascript frameworks with a good degree of proficiency. I work with VueJS and I am currently working with NodeJS/Express JS for backend development.
+
+I apply best: practices, patterns, principles to whatever language I am involved in.
 
 ### Specialized in
 
@@ -43,15 +47,15 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 `2004 - 2010`
 __Caleb International College.__
-_WAEC/SSCE._
+- _WAEC/SSCE._
 
 `2011-2017`
 __Obafemi Awolowo University.__
-_Bachelor of Science: Mechanical Engineering._
+- _Bachelor of Science: Mechanical Engineering._
 
 `2017 - 2018`
 __Microsoft Intern4Afrika__
-_Marketing Track._
+- _Marketing Track._
 
 ## Certifications
 
