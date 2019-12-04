@@ -14,8 +14,8 @@ Frontend Developer, Aspiring Backend Developer, UI/UX Designer.
 
 ## Summary
 
-I am a Mechanical Engineering Graduate with multifaceted skills in Graphics Design, Frontend Development and Digital
-Strategy and deep knowledge and expertise in Javascript Frameworks, I excel at developing Websites and SPAs in VueJS
+I am a Mechanical Engineering Graduate with multifaceted skills in UI Design, Frontend Development, Digital
+Strategy with minor profeciency in Express and Node. I have a knowledge and expertise in Javascript Frameworks, I excel at developing Websites and SPAs in VueJS.
 
 I am well versed in Javascript frameworks with a good degree of proficiency. I work with VueJS and I am currently working with NodeJS/Express JS for backend development.
 
@@ -23,7 +23,7 @@ I apply best: practices, patterns, principles to whatever language I am involved
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Javascript, jQuery, VueJS, SPAs, NodeJS/Express JS, HTML, CSS, Bootstrap and UI/UX design.
 
 
 ### Research interests
@@ -33,15 +33,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`DECEMBER 2017 - PRESENT`
+__Web and Email Developer__ | Reliance Infosystems | Lagos
 
-- Warden
-- Minted coins
+- Designing and developing digital media (websites and emails) and promotional materials for company products and events
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`JUNE 2018 - PRESENT`
+__UI/UX and Graphics Design__ | TechQuest | Lagos
 
+-Collaborating and co-ordinating with the communications team and development team to create UI mockups for the website and portals.
+
+`JULY 2018 - OCTOBER 2018`
+__Creative Director__ | Startup Studio | Lagos
+
+-Frontend development, User Interface (UI) and User Experience (UX) design for mobile apps, websites and landing pages.
 
 ## Education
 
