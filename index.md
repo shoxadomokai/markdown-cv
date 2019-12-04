@@ -1,19 +1,21 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Peter Adomokai's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Peter Adomokai
+Frontend Developer, Aspiring Backend Developer, UI/UX Designer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/shoxadomokai">My Github Page</a>
+| <a href="https://www.behance.net/ShoxAdomokai">My Behance Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am a Mechanical Engineer with multifaceted skills in Graphics Design, Frontend Development and Digital
+Strategy with a proven expertise in finding, attracting and securing strong and friendly long-term relationships directly with
+customers of small to midsized closely held businesses.
 
 ### Specialized in
 
@@ -27,48 +29,28 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004 - 2010`
+__Caleb International College.__
+_WAEC/SSCE._
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2017`
+__Obafemi Awolowo University.__
+_Bachelor of Science: Mechanical Engineering._
 
-- Sizar
+`2017 - 2018`
+__Microsoft Intern4Afrika__
+_Marketing Track._
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Certifications
 
-- Fellow
+`2019`
+Project Management, *Alison Courses*
 
+`2019`
+M365 Certified Fundamentals, *Microsoft*
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018`
+Microsoft Office Specialist, *Microsoft*
 
 
 ## Occupation
