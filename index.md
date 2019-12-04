@@ -39,11 +39,13 @@ __Web and Email Developer__ | Reliance Infosystems | Lagos
 
 - Designing and developing digital media (websites and emails) and promotional materials for company products and events
 
+
 `JUNE 2018 - PRESENT`
 
 __UI/UX and Graphics Design__ | TechQuest | Lagos
 
 -Collaborating and co-ordinating with the communications team and development team to create UI mockups for the website and portals.
+
 
 `JULY 2018 - OCTOBER 2018`
 
@@ -54,26 +56,34 @@ __Creative Director__ | Startup Studio | Lagos
 ## Education
 
 `2004 - 2010`
+
 __Caleb International College.__
 - _WAEC/SSCE._
 
+
 `2011-2017`
+
 __Obafemi Awolowo University.__
 - _Bachelor of Science: Mechanical Engineering._
 
+
 `2017 - 2018`
+
 __Microsoft Intern4Afrika__
 - _Marketing Track._
 
 ## Certifications
 
 `2019`
+
 Project Management, *Alison Courses*
 
 `2019`
+
 M365 Certified Fundamentals, *Microsoft*
 
 `2018`
+
 Microsoft Office Specialist, *Microsoft*
 
 <!-- ### Footer
