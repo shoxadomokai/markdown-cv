@@ -11,7 +11,7 @@ Frontend Developer, Aspiring Backend Developer, UI/UX Designer.
 </div>
 
 
-## Currently
+## Summary
 
 I am a Mechanical Engineer with multifaceted skills in Graphics Design, Frontend Development and Digital
 Strategy with a proven expertise in finding, attracting and securing strong and friendly long-term relationships directly with
@@ -25,6 +25,18 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
 ## Education
@@ -51,20 +63,6 @@ M365 Certified Fundamentals, *Microsoft*
 
 `2018`
 Microsoft Office Specialist, *Microsoft*
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 <!-- ### Footer
 
