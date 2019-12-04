@@ -53,35 +53,32 @@ __Creative Director__ | Startup Studio | Lagos
 ## Education
 
 `2004 - 2010`
-
 __Caleb International College.__
 - _WAEC/SSCE._
 
 
 `2011-2017`
-
 __Obafemi Awolowo University.__
 - _Bachelor of Science: Mechanical Engineering._
 
 
 `2017 - 2018`
-
 __Microsoft Intern4Afrika__
 - _Marketing Track._
 
 ## Certifications
 
 `2019`
-
-Project Management, *Alison Courses*
+__Project Management__,
+- *Alison Courses*
 
 `2019`
-
-M365 Certified Fundamentals, *Microsoft*
+__M365 Certified Fundamentals__,
+- *Microsoft*
 
 `2018`
-
-Microsoft Office Specialist, *Microsoft*
+__Microsoft Office Specialist__,
+- *Microsoft*
 
 <!-- ### Footer
 
