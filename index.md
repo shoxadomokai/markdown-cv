@@ -34,21 +34,18 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Occupation
 
 `DECEMBER 2017 - PRESENT`
-
 __Web and Email Developer__ | Reliance Infosystems | Lagos
 
 - Designing and developing digital media (websites and emails) and promotional materials for company products and events
 
 
 `JUNE 2018 - PRESENT`
-
 __UI/UX and Graphics Design__ | TechQuest | Lagos
 
 -Collaborating and co-ordinating with the communications team and development team to create UI mockups for the website and portals.
 
 
 `JULY 2018 - OCTOBER 2018`
-
 __Creative Director__ | Startup Studio | Lagos
 
 -Frontend development, User Interface (UI) and User Experience (UX) design for mobile apps, websites and landing pages.
